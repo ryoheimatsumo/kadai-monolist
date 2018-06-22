@@ -61,6 +61,7 @@ footer {
 .user-profile .name {
     margin-bottom: 20px;
 }
+
 .user-profile .name h1 {
     text-shadow: 1px 1px 1px #fff;
     font-weight: bold;
@@ -89,7 +90,12 @@ footer {
 .user-profile .status ul li .status-value {
     font-size: 18px;
 }
-        img {
-                width: auto;
-                max-width: 200px;
-            }
+img {
+    width: auto;
+    max-width: 200px;
+    }
+    
+.manyitems {
+    width: auto;
+    margin:auto;
+}
